@@ -1,0 +1,6 @@
+@agent_core_swagger_test_HostAddress = http://localhost:5122
+
+GET {{agent_core_swagger_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
